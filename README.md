@@ -1,15 +1,22 @@
 ## Hey im Kobley
 
+# Stuff Im Working On
+
+## MC Hacked Clients
+- RetardWare
+- BozoWare
+
+## Cheating Scripts
+- Neverlose Bozo.lua
 
 # Languages and Tools
 
-Here are some ideas to get you started:
+## Languages I Know Well
+- Java (Mostly MC)
+- Python (for random little projects)
+- NodeJS/JS (for discord bots and mineflayer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+##Languages I Am Learning
+- Lua (mostly for cheat scripts)
+- C++ (for internal CSGO cheat)
+- C# (i only know some Unity C#)
