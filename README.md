@@ -11,12 +11,12 @@
 
 # Languages and Tools
 
-## Languages I Know Well
+### Languages I Know Well
 - Java (Mostly MC)
 - Python (for random little projects)
 - NodeJS/JS (for discord bots and mineflayer)
 
-##Languages I Am Learning
+### Languages I Am Learning
 - Lua (mostly for cheat scripts)
 - C++ (for internal CSGO cheat)
 - C# (i only know some Unity C#)
