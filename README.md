@@ -11,7 +11,7 @@
 
 # Languages and Tools
 
-### Languages I Know Well
+### Languages I Know Decently Well
 - Java (Mostly MC)
 - Python (for random little projects)
 - NodeJS/JS (for discord bots and mineflayer)
