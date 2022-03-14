@@ -6,7 +6,7 @@
 - RetardWare
 - BozoWare
 
-### Cheating Software Scripts
+### Cheating Scripts
 - Neverlose Bozo.lua
 
 # Languages
