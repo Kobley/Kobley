@@ -7,7 +7,8 @@
 - BozoWare
 
 ### Cheating Scripts
-- Neverlose Bozo.lua
+- Bozo.lua (Neverlose kinda discontinued)
+- Mercury Hub (Roblox Multi-Hub Lua)
 
 # Languages
 
@@ -17,11 +18,11 @@
 - NodeJS/JS (for discord bots and mineflayer, barely any web js)
 
 ### Languages I Am Learning
-- Lua (for scripts)
-
-# Tools I Use
+- Lua (for scripts, less learning and more trying to use more)
 
 ### Tools I Use
 - Intelij Idea (For Bigger Java Projects)
 - Eclipse Neon and Latest (For Smaller, Quicker Java Projects)
 - Visual Studio Code (Mosty For Scripts Or Web Related Application)
+- Github and Github Desktop
+- Replit (for certain items)
