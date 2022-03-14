@@ -3,7 +3,7 @@
 # Stuff Im Working On
 
 ### MC Hacked Clients
-- RetardWare
+- RetardWare (discontinued)
 - BozoWare
 
 ### Cheating Scripts
