@@ -10,12 +10,12 @@
 - Bozo.lua (Neverlose kinda discontinued)
 - Mercury Hub (Roblox Multi-Hub Lua)
 
-# Languages
+# Languages And Tools
 
 ### Languages I Know Well Enough For What I Do
 - Java (Mostly MC)
-- Python (for random little projects)
-- NodeJS/JS (for discord bots and mineflayer, barely any web js)
+- Python (not used as much as i want to, forgot a lot of python 😢)
+- NodeJS/JS (More node than plain js but yknow)
 
 ### Languages I Am Learning
 - Lua (for scripts, less learning and more trying to use more)
