@@ -1,26 +1,26 @@
-## Hey im Kobley
+## Hey, im Kobley!
 
-# Stuff Im Working On
+# Stuff Im Working On:
 
-### MC Hacked Clients
+### MC Hacked Clients:
 - RetardWare (discontinued)
 - BozoWare
 
-### Cheating Scripts
+### Cheating Scripts:
 - Bozo.lua (Neverlose kinda discontinued)
 - Mercury Hub (Roblox Multi-Hub Lua)
 
-# Languages And Tools
+# Languages And Tools:
 
-### Languages I Know Well Enough For What I Do
+### Languages I Know Well Enough For What I Do:
 - Java (Mostly MC)
 - Python (not used as much as i want to, forgot a lot of python 😢)
 - NodeJS/JS (More node than plain js but yknow)
 
-### Languages I Am Learning
+### Languages I Am Learning:
 - Lua (for scripts, less learning and more trying to use more)
 
-### Tools I Use
+### Tools I Use:
 - Intelij Idea (For Bigger Java Projects)
 - Eclipse Neon and Latest (For Smaller, Quicker Java Projects)
 - Visual Studio Code (Mosty For Scripts Or Web Related Application)
