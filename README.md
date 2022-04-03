@@ -13,7 +13,7 @@
 # Languages And Tools:
 
 ### Languages I Know Well Enough For What I Do:
-- Java (Mostly MC)
+- Java (Usually MC)
 - Python (not used as much as i want to, forgot a lot of python 😢)
 - NodeJS/JS (More node than plain js but yknow)
 
