@@ -1,28 +1,32 @@
 ## Hey, im Kobley!
 
-# Stuff Im Working On:
+# Stuff Im Working On
 
-### MC Hacked Clients:
+### Mincraft Clients
 - RetardWare (discontinued)
-- BozoWare
+- BozoWare (discontinued temporarily)
+- Sleek
 
-### Cheating Scripts:
-- Bozo.lua (Neverlose kinda discontinued)
-- Mercury Hub (Roblox Multi-Hub Lua)
+### Scripts
+- Neverlose Bozo.lua 
+- Mercury Hub Lua
 
-# Languages And Tools:
+# Languages And Tools
 
-### Languages I Know Decently Well
-- Java (Usually MC)
-- Python (not used as much as i want to, forgot a lot of python 😢)
-- NodeJS/JS (More node than plain js but yknow)
+### Languages I Know
+- Java 
+- Python
+- NodeJS/JS
+- Lua
 
-### Languages I Am Learning:
-- Lua (for scripts, less learning and more trying to use more)
+### Languages I'm Learning
+- Nothing atm
 
-### Tools I Use:
-- Intelij Idea (For Bigger Java Projects)
-- Eclipse Neon and Latest (For Smaller, Quicker Java Projects)
-- Visual Studio Code (Mosty For Scripts Or Web Related Application)
+### Tools
+- Intelij Idea
+- NeoVim
+- Tmux
+- Eclipse Neon and Latest 
+- Visual Studio Code
 - Github and Github Desktop
-- Replit (for certain items)
+- Replit
