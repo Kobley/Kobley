@@ -20,7 +20,7 @@
 - Lua
 
 ### Languages I'm Learning
-- Nothing atm
+- C++
 
 ### Tools
 - Intelij Idea
