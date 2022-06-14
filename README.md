@@ -9,7 +9,7 @@
 
 ### Scripts
 - Neverlose Bozo.lua 
-- Mercury Hub Lua
+- Mercury Roblox Hub Lua
 
 # Languages And Tools
 
