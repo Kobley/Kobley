@@ -2,7 +2,7 @@
 ![ghtop](https://user-images.githubusercontent.com/61884360/173486382-9402456d-bc9a-469d-bd99-02ae91762d5d.png)
 # Stuff Im Working On
 
-### Mincraft Clients
+### Minecraft Clients
 - RetardWare (discontinued)
 - BozoWare (discontinued temporarily)
 - Sleek
