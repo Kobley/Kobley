@@ -3,6 +3,8 @@
 <a href="https://github.com/Kobley">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Kobley" alt="Profile Views">
+    <br>
+    <img src="https://discord.c99.nl/widget/theme-1/862491763377569823.png" />
   </p>
 </a>
 
@@ -39,9 +41,6 @@
 - Replit
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/862491763377569823.png" />
-  <br />
-  <br />
   <img src="https://github-profile-trophy.vercel.app/?username=Kobley&theme=nord&margin-w=15&margin-h=1&column=6" />
 </p>
 
