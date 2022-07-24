@@ -17,7 +17,10 @@
 
 ### Scripts
 - Neverlose Bozo.lua 
-- Mercury Roblox Hub Lua
+- Mercury Roblox Hub Lua (WIP: gonna be a bigger thing soon, 
+                               along with forums, 
+                               better auth, actual finished scripts, 
+                               and other products of same name)
 
 # Languages And Tools
 
@@ -37,6 +40,7 @@
 - Tmux
 - Eclipse Neon and Latest 
 - Visual Studio Code
+- Visual Studio
 - Github and Github Desktop
 - Replit
 
