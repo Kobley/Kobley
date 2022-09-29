@@ -32,6 +32,7 @@
 
 
 ### Languages I'm Learning
+- C
 - C++
 - ASM (intel mostly)
 - rust (soon)
