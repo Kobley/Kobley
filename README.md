@@ -33,6 +33,9 @@
 
 ### Languages I'm Learning
 - C++
+- ASM (intel mostly)
+- rust (soon)
+- go (soon)
 
 ### Tools
 - Intelij Idea
