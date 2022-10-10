@@ -13,7 +13,7 @@
 ### Minecraft Clients
 - RetardWare (discontinued)
 - BozoWare (discontinued temporarily)
-- Sleek
+- Sleek (gone)
 
 ### Scripts
 - Neverlose Bozo.lua 
