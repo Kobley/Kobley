@@ -4,7 +4,10 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Kobley" alt="Profile Views">
     <br>
-    <img src="https://discord.c99.nl/widget/theme-1/862491763377569823.png" />
+    <details align="center">
+      <summary>Discord</summary>
+      <img src="https://discord.c99.nl/widget/theme-1/862491763377569823.png" />
+    </details>
   </p>
 </a>
 
