@@ -31,7 +31,7 @@
 - RetardWare (discontinued)
 <br />
 - BozoWare (discontinued temporarily)
-<br />
+<br /> 
 - Sleek (gone)
 </details>
 
