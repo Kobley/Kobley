@@ -21,40 +21,63 @@
 
 # Stuff Im Working On
 
-### Minecraft Clients
+<details>
+<summary>Minecraft Clients</summary>
 - RetardWare (discontinued)
+<br />
 - BozoWare (discontinued temporarily)
+<br />
 - Sleek (gone)
+</details>
 
-### Scripts
-- Neverlose Bozo.lua 
-- Mercury Roblox Hub Lua (WIP: gonna be a bigger thing soon, 
-                               along with forums, 
-                               better auth, actual finished scripts, 
-                               and other products of same name)
+<details>
+<summary>Scripts</summary>
+- Neverlose Bozo.lua (nl sub gone!)
+<br />
+- Mercury Roblox Hub Lua (no motivation but might start again soon)
+</details>
 
 # Languages And Tools
 
-### Languages I Know
-- Java 
+<details>
+<summary>Languages I Know</summary>
+- Java
+<br />
 - Python
-- NodeJS/JS
+<br />
+- NodeJS/JS/TS
+<br />
 - Lua
+</details>
 
-
-### Languages I'm Learning
+<details>
+<summary>Languages I'm Learning</summary>
 - C
+<br />
 - C++
-- ASM (intel and still learning)
+<br />
+- ASM (intel and soon)
+<br />
 - rust (soon)
+<br />
 - go (soon)
+</details>
 
-### Tools
+<details>
+<summary>What I Use</summary>
 - Intelij Idea
+<br />
 - NeoVim
+<br />
 - Tmux
+<br />
 - Eclipse Neon and Latest 
+<br />
 - Visual Studio Code
+<br />
 - Visual Studio
+<br />
 - Github and Github Desktop
+<br />
 - Replit
+</details>
