@@ -1,6 +1,4 @@
-<p align="center">
 ## Hey, im Kobley!
-/<p>
 
 <a href="https://github.com/Kobley">
   <p align="center">
