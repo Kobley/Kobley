@@ -13,7 +13,7 @@
 </p>
 
 <details align="center">
-  <summary>Trophys</summary>
+  <summary>Trophies</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=Kobley&theme=nord&margin-w=15&margin-h=1&column=6" />
 </details>
 <p align="center">
