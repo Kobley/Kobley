@@ -13,11 +13,14 @@
   </details>
 </p>
 
-<p align="center">
+<details align="center">
+  <summary>Trophys</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=Kobley&theme=nord&margin-w=15&margin-h=1&column=6" />
-  <br />
+</details>
   
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobley&show_icons=true&theme=dark" /> 
+<br />
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobley&show_icons=true&theme=dark" /> 
 </p>
 
 <p align="center">
