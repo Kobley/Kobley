@@ -46,45 +46,14 @@
 
 # Languages And Tools
 
-<details>
-<summary>Languages I Know</summary>
-- Java
-<br />
-- Python
-<br />
-- NodeJS/JS/TS
-<br />
-- Lua
-</details>
+## I Know
+<img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2000&color=ffffff&lines=python;javascript;lua;java;c%2B%2B;c%23;c;%26+more" />
 
-<details>
-<summary>Languages I'm Learning</summary>
-- C
-<br />
-- C++
-<br />
-- ASM (intel and soon)
-<br />
-- rust (soon)
-<br />
-- go (soon)
-</details>
+## Im Learning
+<img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2000&color=ffffff&lines=go;rust;c%2B%2B;c;ASM (intel);%26+more" />
 
-<details>
-<summary>What I Use</summary>
-- Intelij Idea
-<br />
-- NeoVim
-<br />
-- Tmux
-<br />
-- Eclipse Neon and Latest 
-<br />
-- Visual Studio Code
-<br />
-- Visual Studio
-<br />
-- Github and Github Desktop
-<br />
-- Replit
-</details>
+## What I Use
+<img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2000&color=ffffff&lines=Intelij Idea;Visual Studio and Visual Studio Code;NeoVim;Eclipse (neon,latest);Electron;%26+more" />
+
+
+<p><img align="center" src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/></p>
