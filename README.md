@@ -47,4 +47,4 @@
 ## Im Learning
 <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2000&color=ffffff&lines=go;rust;c%2B%2B;c;ASM (intel);%26+more" />
 -->
-<p><img align="center" src="https://raw.githubusercontent.com/catppuccin/catppuccin/blob/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/></p>
+<p><img align="center" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg"/></p>
