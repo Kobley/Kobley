@@ -12,9 +12,17 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=Kobley&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
 </p>
 
-<div align="center">
-    <img src="details.svg" width="400" height="400" alt="css-in-readme">
-</div>
+
+<details align="center">
+  <summary>Trophies</summary>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kobley&theme=nord&margin-w=15&margin-h=1&column=6" />
+</details>
+
+<details align="center">
+  <summary>Discord</summary>
+  <img src="https://discord.c99.nl/widget/theme-1/862491763377569823.png" />
+</details>
+
 
 # Stuff Im Working On
 
