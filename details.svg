@@ -1,0 +1,22 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+			  container > details {
+				display:inline-block;
+			  }
+			</style>
+
+			<container>
+			  <details align="center">
+				<summary>Trophies</summary>
+				<img src="https://github-profile-trophy.vercel.app/?username=Kobley&theme=nord&margin-w=15&margin-h=1&column=6" />
+			  </details>
+			  <details align="center">
+				<summary>Discord</summary>
+				<img src="https://discord.c99.nl/widget/theme-1/862491763377569823.png" />
+			  </details>
+			</container>
+        </div>
+    </foreignObject>
+</svg>
