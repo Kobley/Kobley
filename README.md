@@ -24,7 +24,7 @@
 </details>
 
 
-# Stuff Im Working On
+# Working On
 
 <details>
 <summary>Minecraft Clients</summary>
@@ -39,7 +39,7 @@
 <summary>Scripts</summary>
 - Neverlose Bozo.lua (nl sub gone!)
 <br />
-- Mercury Roblox Hub Lua (no motivation but might start again soon)
+- Mercury Roblox Lua (no motivation)
 </details>
 
 ## I Know
