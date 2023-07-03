@@ -42,8 +42,12 @@
 - Mercury Roblox Lua (no motivation)
 </details>
 
-## I Know
-<img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2000&color=ffffff&lines=python;javascript;lua;java;c%2B%2B;c%23;c;%26+more" />
+## I know
+[![I Know](https://skillicons.dev/icons?i=html,css,js,java,py,lua,c,cs,cpp,arduino,mysql)](https://skillicons.dev)
+
+## I use
+[![I use](https://skillicons.dev/icons?i=bash,codepen,dotnet,visualstudio,vscode,eclipse,idea,gradle,electron,express,nextjs,nuxtjs,vue,nodejs,firebase,replit,supabase,postman,powershell,git,github,linux,neovim,unity)](https://skillicons.dev)
+<!-- <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2000&color=ffffff&lines=python;javascript;lua;java;c%2B%2B;c%23;c;%26+more" />
 <!---
 ## Im Learning
 <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2000&color=ffffff&lines=go;rust;c%2B%2B;c;ASM (intel);%26+more" />
