@@ -24,7 +24,7 @@
 
 <h2 align="center">I know</h2>
 
-[![I Know](https://skillicons.dev/icons?i=html,css,js,java,py,lua,c,cs,cpp,arduino,mysql)](https://skillicons.dev)
+[![I Know](https://skillicons.dev/icons?i=html,css,js,java,py,golang,lua,c,cs,cpp,arduino,mysql)](https://skillicons.dev)
 
 <h2 align="center">I use</h2>
 
