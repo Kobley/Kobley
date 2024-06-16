@@ -1,7 +1,6 @@
 <h1>stats</h1>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobley&show_icons=true&theme=dark&layout=compact" />
-
 <a href="https://github.com/Kobley">
   <img src="https://komarev.com/ghpvc/?username=Kobley" alt="Profile Views">
 </a>
