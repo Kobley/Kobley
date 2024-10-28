@@ -7,7 +7,7 @@
 
 <h2>I know</h2>
 
-[![I Know](https://skillicons.dev/icons?i=html,css,js,java,py,golang,lua,c,cs,cpp,arduino,mysql)](https://skillicons.dev)
+[![I Know](https://skillicons.dev/icons?i=html,css,js,java,py,golang,lua,c,cs,cpp,arduino,mysql,p5js,sqlite,latex)](https://skillicons.dev)
 
 <h2>I use</h2>
 
