@@ -1,3 +1,7 @@
+<h1>I am</h1>
+
+A full stack software & web developer, training my cybersecurity skills. Currently on purple team.
+
 <h1>stats</h1>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobley&show_icons=true&theme=dark&layout=compact" />
