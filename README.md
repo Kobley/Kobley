@@ -1,6 +1,6 @@
 <h1>I am</h1>
 
-A full stack software & web developer, training my cybersecurity skills. Currently on purple team.
+a full stack software & web developer.
 
 <h1>stats</h1>
 
