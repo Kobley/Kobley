@@ -1,6 +1,6 @@
 <h1>I am</h1>
 
-a full stack software & web developer.
+a full stack software & web engineer.
 
 <h1>stats</h1>
 
